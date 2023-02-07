@@ -14,15 +14,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['254726479220'] //ur owner number
+global.owner = ['94726479220'] //ur owner number
 global.ownername = "simon" //ur owner name
 global.ytname = "YT: PRODUCER SIMON" //ur yt chanel name
 global.socialm = "GitHub: Lax-byte" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
-global.ownernomer = "254726479220" //ur number
-global.premium = ['254726479220'] //ur premium number
+global.ownernomer = "94726479220" //ur number
+global.premium = ['94726479220'] //ur premium number
 global.botname = 'SIMO-DARK HORDE' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
